@@ -1,20 +1,30 @@
 ! Title: LINE-Ad-BlockList
-! Homepage: https://github.com/minimal-enginner/LINE-Ad-BlockList
-!
-! Lastupdate: 2026-01-30
+! Homepage: https://github.com/2gn/LINE-Ad-BlockList
+! Description: Block line ads and more
+! Lastupdate: 2026-02-11
 !
 
-||im.c.yimg.jp^
-||a.line.me^
-||obs.line-scdn.net^
-||gw.line.naver.jp^
 ||ad.line-scdn.net^
-||scdn.line-apps.com^
-||linevoom.line.me^
-||voom-assets.line-scdn.net^
-||voom-obs.line-scdn.net^
+||a.line.me^
+||ch.line-scdn.net^
 ||ch-news.line-apps.com^
-||square-api.line.me^
 ||crs-event.line.me^
 ||crs-hometab-event.line.me^
-||ad.line-scdn.net^
+||gw.line.naver.jp^
+||im.c.yimg.jp^
+||legy-jp.line-apps.com^
+||linecrs.line-scdn.net^
+||linegame-obs.line-scdn.net^
+||linevoom.line.me^
+||news.line-apps.com^
+||news-obs.line-scdn.net^
+||obs.line-scdn.net^
+||pagepoker.line-scdn.net^
+||scdn.line-apps.com^
+||shop.line-scdn.net^
+||square-api.line.me^
+||voom-assets.line-scdn.net^
+||voom-obs.line-scdn.net^
+||vos.line-scdn.net^
+||wc.line-scdn.net^
+||w.line.me^
