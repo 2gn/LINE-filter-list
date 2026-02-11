@@ -1,7 +1,5 @@
-# LINE-Ad-BlockList
-LINE広告のブロックリスト（AdGuardHome用）
+# LINE Filter List
 
-使い方：[LINE広告にさよならを！｜AdGuard Proで簡単ブロック](https://minimalist-meme.com/line-ad-block-iphone/)
+A fork of [minimal-engineer/LINE-Ad-Blocklist](https://github.com/minimal-enginner/LINE-Ad-BlockList) that has additional filters for news and games.
 
-動画ver
-[![alt設定](https://github.com/user-attachments/assets/db7e1496-5696-41f6-974a-245981fef918)](https://youtu.be/p5uDziuqsq0?si=E5_LCGAIv_NtWADy)
+Use with [DNS filtering apps](https://github.com/offa/android-foss?tab=readme-ov-file#-ad-blocker) that support importing external filters.
